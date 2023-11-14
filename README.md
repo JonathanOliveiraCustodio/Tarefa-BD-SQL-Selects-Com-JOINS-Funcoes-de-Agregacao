@@ -35,22 +35,14 @@ Users
 | 5             | Aparecido     | Rh_apareci    | 55@!cido      |aparecido@empresa.com |
 
 
-    
-1    
-2    
-3    
-4    
-5    
 
 Projects
 Id Name Description Date
 10001 Re-folha Refatoração das
-
 Folhas
 05/09/2014
 10002 Manutenção PC ́s Manutenção PC ́s 06/09/2014
 10003 Auditoria NULL 07/09/2014
-Users_has_projects
 
 Users_id Projects_id
 1 10001
