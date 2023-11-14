@@ -26,13 +26,13 @@ Prof. M.Sc. Leandro Colevati dos Santos
 Inserir os dados abaixo:
 Users
 
-| Id            | Name          |   Username    | Password      |  Email      |
-| ------------- | ------------- | ------------- | ------------- | ----------- |
-| 1             | Maria  | Rh_maria  | 123mudar  |maria@empresa.com |
-| 2             | Paulo  | Ti_paulo  | 123@456  |paulo@empresa.com  |
-| 3             | Ana  | Rh_ana | 123mudar   |ana@empresa.com  |
-| 4             | Clara  | Ti_clara  | 123mudar   |clara@empresa.com |
-| 5             | Aparecido  |   | 55@!cido   |aparecido@empresa.com |
+| Id            | Name          |   Username    | Password      |  Email               |
+| ------------- | ------------- | ------------- | ------------- | -------------------- |
+| 1             | Maria         | Rh_maria      | 123mudar      |maria@empresa.com     |
+| 2             | Paulo         | Ti_paulo      | 123@456       |paulo@empresa.com     |
+| 3             | Ana           | Rh_ana        | 123mudar      |ana@empresa.com       |
+| 4             | Clara         | Ti_clara      | 123mudar      |clara@empresa.com     |
+| 5             | Aparecido     | Rh_apareci    | 55@!cido      |aparecido@empresa.com |
 
 
     
