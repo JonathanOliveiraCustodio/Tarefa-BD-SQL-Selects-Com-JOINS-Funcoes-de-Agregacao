@@ -26,10 +26,10 @@ Prof. M.Sc. Leandro Colevati dos Santos
 Inserir os dados abaixo:
 Users
 
-| Id            | Name          |   Username            | Password          |  Email|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Id            | Name          |   Username    | Password      |  Email      |
+| ------------- | ------------- | ------------- | ------------- | ----------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell |
 
     
 1 Maria Rh_maria 123mudar maria@empresa.com
